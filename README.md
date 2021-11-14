@@ -1,6 +1,6 @@
-# waiter-desktop
+# Electron Vue Boilerplate
 
-> Restaurant Waiter desktop application
+> Easy to use.
 
 #### Build Setup
 
